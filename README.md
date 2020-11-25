@@ -12,7 +12,7 @@ There are 3 data files:
 * [data/train_features.csv](data/train_features.csv)
 * [data/train_targets.csv](data/train_features.csv)
 
-[output/sample_submission.csv](output/sample_submission.csv) is an example of a file that is ready to submit to Kaggle. THere are two columes: `id` and `SALE PRICE`.
+[output/sample_submission.csv](output/sample_submission.csv) is an example of a file that is ready to submit to Kaggle. There are two columes: `id` and `SALE PRICE`.
 
 ## Kaggle Link
 https://www.kaggle.com/c/saas-2020-fall-cx-kaggle-compeition
