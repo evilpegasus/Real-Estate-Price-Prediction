@@ -6,6 +6,7 @@ https://www1.nyc.gov/assets/finance/jump/hlpbldgcode.html
 
 
 remove outliers
+check negative price predicitons
 
 
 Check if building or tax class changes
