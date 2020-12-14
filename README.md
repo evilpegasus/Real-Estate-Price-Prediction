@@ -1,6 +1,8 @@
 # Real Estate Price Prediction
 ### Berkeley SAAS CX Fall 2020 Kaggle Competition
 ### Ming Fong and Yifan Zhang
+Winning solution
+
 Predicting real estate sale prices using property data.
 
 ## Data
