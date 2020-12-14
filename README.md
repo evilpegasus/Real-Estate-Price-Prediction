@@ -9,6 +9,8 @@ Predicting real estate sale prices using property data.
 Data can be downloaded from the [Kaggle competition data page](https://www.kaggle.com/c/saas-2020-fall-cx-kaggle-compeition/data).
 In the repo, data is in the `/data` directory.
 
+The code used for our final submission can be found in `final_submission.ipynb`.
+
 There are 3 data files:
 * [data/test_features.csv](data/test_features.csv)
 * [data/train_features.csv](data/train_features.csv)
