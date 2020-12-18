@@ -5,7 +5,7 @@
 
 Predicting real estate sale prices using property data.
 
-The code used for our final submission can be found in `final_submission.ipynb`.
+The code used for our final submission can be found in [final_submission.ipynb](final_submission.ipynb).
 
 ## Data
 Data can be downloaded from the [Kaggle competition data page](https://www.kaggle.com/c/saas-2020-fall-cx-kaggle-compeition/data).
